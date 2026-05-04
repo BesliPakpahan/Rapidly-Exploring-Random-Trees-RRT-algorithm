@@ -3,6 +3,7 @@
 **SIMULASI RRT MOTION PLANNING**
 
 **RE605 - Motion Planning**  
+**Student Name:** Besli Saut Marito Pakpahan
 **Student NIM:** 4222301027
 
 ---
@@ -136,7 +137,7 @@ This script prints obstacle info, planning progress, path details, and saves `UT
 
 ## Visualization
 
-![RRT Simulation](UTS/rrt_simulation_exact.png)
+![RRT Simulation](rrt_simulation_exact.png)
 
 ---
 
